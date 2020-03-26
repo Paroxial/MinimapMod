@@ -2,6 +2,7 @@
 
 Forge mod that displays a miniature map of the world around you.
 
-# Keybinds
+Keybinds
+-------------
 
-Comma - Opens the GUI
+Comma (,) - Opens the GUI
