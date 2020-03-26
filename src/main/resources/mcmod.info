@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minimap",
+  "name": "Minimap Mod",
+  "description": "Displays a miniature map of the world around you.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Paroxial/MinimapMod",
+  "updateUrl": "",
+  "authorList": ["Paroxial"],
+  "credits": "Paroxial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
